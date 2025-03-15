@@ -1,0 +1,50 @@
+{
+  "home": {
+      "title": "Welcome to My Portfolio!",
+      "introduction": "Hi, I’m Abhinaya Rapolu – a Data Scientist and AI Engineer passionate about solving complex problems through data-driven solutions.",
+      "highlights": [
+          "🔹AI & Machine Learning Projects",
+          "🔹Data Science & Analytics",
+          "🔹Software Development & Engineering"
+      ],
+      "cta": "🚀 Let’s connect and create something extraordinary!"
+  },
+  "about": {
+      "title": "About Me",
+      "introduction": "I’m Abhinaya Rapolu, a Data Scientist and AI Engineer with experience in machine learning, deep learning, and big data analytics.",
+      "education": [
+          {
+              "degree": "Master of Science in Data Science, Analytics, and Engineering",
+              "institution": "Arizona State University"
+          },
+          {
+              "degree": "Bachelor of Technology in Computer Science with AI & ML",
+              "institution": "Jawaharlal Nehru Technological University, CVR College of Engineering"
+          }
+      ],
+      "expertise": [
+            "✅ **Artificial Intelligence & Machine Learning** – Extensive experience in building and deploying machine learning models using supervised, unsupervised, and deep learning techniques. Proficient in feature engineering, hyperparameter tuning, and model optimization. Worked with CNNs, RNNs, Transformers, and attention-based models for various applications including text classification, image recognition, and medical diagnostics.",
+            "✅ **Natural Language Processing (NLP)** – Expertise in text pre-processing, tokenization, sentiment analysis, and named entity recognition (NER). Hands-on experience in deploying models using Hugging Face Transformers, NLTK, and SpaCy for tasks like fake news detection and multilingual text processing.",
+            "✅ **Computer Vision & Image Processing** – Strong background in applying OpenCV, TensorFlow, and PyTorch for real-time image recognition, segmentation, and object detection. Developed medical imaging models for Alzheimer's disease classification and worked on OCR-based multilingual text recognition.",
+            "✅ **Predictive Analytics & Statistical Modeling** – Proficient in time-series forecasting, regression analysis, and anomaly detection using statistical and probabilistic methods. Experience in leveraging Bayesian inference, Markov models, and ARIMA models for predictive insights.",
+            "✅ **Big Data & Analytics** – Hands-on experience with **Apache Spark and Hadoop** for large-scale data processing. Proficient in **SQL, NoSQL databases**, and ETL pipelines for data wrangling and transformation. Skilled in real-time streaming analytics using Kafka.",
+            "✅ **Software Development & Engineering** – Strong programming skills in **Python, R, Java, SQL, JavaScript, and Ruby**. Experienced in software version control (Git, GitHub) and CI/CD pipelines. Developed web-based ML applications using Flask, FastAPI, and deployed models using Docker and Kubernetes.",
+            "✅ **Cloud & Database Technologies** – Knowledgeable in **AWS (EC2, S3, Lambda, RDS)** and **Google Cloud Platform** for scalable ML model deployment. Experienced in managing **MySQL, PostgreSQL, and MongoDB** databases for structured and unstructured data management.",
+            "✅ **Data Visualization & Business Intelligence** – Proficient in **Tableau, Power BI, Matplotlib, Seaborn, and Plotly Dash** to create insightful and interactive dashboards. Experienced in delivering actionable insights through data storytelling.",
+            "✅ **DevOps & Model Deployment** – Experience with deploying machine learning models in production using **MLOps** best practices. Implemented scalable AI pipelines using Docker, Kubernetes, and TensorFlow Serving. Strong knowledge of API integration and edge deployment strategies."
+        ],
+      "experience": [
+          {
+              "role": "💡Salesforce Developer",
+              "company": "Salesforce",
+              "description": "Enhanced system efficiency by automating workflows, developing Lightning Web Components (LWCs), and strengthening data security."
+          }
+      ]
+  },
+  "name": "Abhinaya Rapolu",
+  "contact":{
+    "linkedin": "https://www.linkedin.com/in/abhinaya-rapolu-45932b269/",
+    "github": "https://github.com/Abhinayarapolu11"
+  }
+  
+}
