@@ -42,6 +42,9 @@
       ]
   },
   "name": "Abhinaya Rapolu",
-  "linkedin": "https://www.linkedin.com/in/abhinaya-rapolu-45932b269/",
-  "github": "https://github.com/Abhinayarapolu11"
+  "contact":{
+    "linkedin": "https://www.linkedin.com/in/abhinaya-rapolu-45932b269/",
+    "github": "https://github.com/Abhinayarapolu11"
+  }
+  
 }

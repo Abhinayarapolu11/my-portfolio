@@ -3,41 +3,41 @@
     {
       "title": "Integrated Multilingual Image Processing",
       "description": "Developed a multilingual text recognition system using a custom Convolutional Neural Network (CNN) model, improving text detection accuracy by 30%. Applied transfer learning using pre-trained models (e.g., VGG, Inception) as feature extractors, increasing accuracy by 15% and elevating the confidence score for character recognition.",
-      "website": ""
+      "website": "https://github.com/Abhinayarapolu11/Integrated-Multilingual-Image-Processing"
     },
     {
       "title": "Alzheimer’s Disease Classification",
       "description": "Developed a deep learning model to classify Alzheimer’s disease severity into four stages, achieving a 98.20% validation accuracy using CNNs and data augmentation techniques. Enhanced model performance through transfer learning with VGG16, fine-tuning pre-trained layers, and optimizing the architecture with dropout and dense layers.",
-      "website": ""
+      "website": "https://github.com/Abhinayarapolu11/Alzheimer-s-Disease-Classification"
     },
     {
       "title": "A Machine Learning Technique for Identification of Plant Diseases in Leaves",
       "description": "Developed an ML-based system using texture analysis (GLCM) and K-Means Clustering to classify plant leaf images into four categories with 94.12% accuracy. Processed 1,908 leaf images, extracting features like contrast and energy for disease prediction using Support Vector Machine (SVM) and K-Nearest Neighbors (KNN).",
-      "website": ""
+      "website": "https://github.com/Abhinayarapolu11/A-Machine-Learning-Technique-for-Identification-of-Plant-Diseases-in-Leaves"
     },
     {
       "title": "Customer Segmentation Using Machine Learning",
       "description": "Implemented a clustering-based approach for customer segmentation using transaction data. Extracted Recency, Frequency, and Monetary (RFM) features and applied K-Means clustering to identify distinct customer groups.",
-      "website": "https://github.com/siddhartha5782/customer_segmentation"
+      "website": "https://github.com/Abhinayarapolu11/customer_segmentation"
     },
     {
       "title": "Sentiment Analysis Using Machine Learning",
       "description": "Built a machine learning pipeline for sentiment analysis using NLP techniques. Preprocessed text data, applied TF-IDF vectorization, and trained models such as Logistic Regression, Naïve Bayes, and SVM to classify sentiments.",
-      "website": "https://github.com/siddhartha5782/sentiment_analysis_using_ml"
+      "website": "https://github.com/Abhinayarapolu11/sentiment_analysis_using_ml"
   },
   {
       "title": "DeepSeek in Colab",
       "description": "Demonstrated how to run DeepSeek Coder models in Google Colab for code generation and completion tasks. Implemented transformers-based models for generating and infilling code in multiple programming languages.",
-      "website": "https://github.com/siddhartha5782/deepseek_in_colab"
+      "website": "https://github.com/Abhinayarapolu11/deepseek_in_colab"
   },
   {
       "title": "Stock Analysis and Prediction Using LSTM",
       "description": "Developed a time-series forecasting model using LSTM to predict stock prices based on historical data. Applied data preprocessing, feature scaling, and hyperparameter tuning to improve model accuracy.",
-      "website": "https://github.com/siddhartha5782/stock_analysis_prediction_using_LSTM"
+      "website": "https://github.com/Abhinayarapolu11/stock_analysis_prediction_using_LSTM"
   },
   {
       "title": "Face Mask Detection",
       "description": "Designed a deep learning-based model for detecting face masks in images. Used OpenCV for image processing and a CNN-based classifier trained on labeled datasets to identify masked and unmasked faces.",
-      "website": "https://github.com/siddhartha5782/face_mask_detection"
+      "website": "https://github.com/Abhinayarapolu11/face_mask_detection"
   }
   ]
