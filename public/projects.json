@@ -1,5 +1,9 @@
 [
-    
+    {
+      "title": "IaaS-Based Scalable Face Recognition System",
+      "description": "Built a scalable facial recognition system using raw AWS IaaS components (EC2, S3, SQS) without relying on managed services. Implemented a Python-based autoscaling controller to dynamically launch/terminate EC2 instances based on real-time workload, achieving 100% accuracy and sub-1s latency for 100 concurrent requests. Designed a modular architecture with isolated tiers and a custom PyTorch model pipeline.",
+      "website": "https://github.com/Abhinayarapolu11/IaaS-Based-Scalable-Face-Recognition-System"
+    },
     {
       "title": "Integrated Multilingual Image Processing",
       "description": "Developed a multilingual text recognition system using a custom Convolutional Neural Network (CNN) model, improving text detection accuracy by 30%. Applied transfer learning using pre-trained models (e.g., VGG, Inception) as feature extractors, increasing accuracy by 15% and elevating the confidence score for character recognition.",
